@@ -18,7 +18,7 @@ function adivinarNumero() {
     }
 
    
-    alert("¡Felicidades! Adivinaste el número secreto: " + numSecreto);
+    alert("¡Felicidades!  número secreto correcto: " + numSecreto);
 }
 
 adivinarNumero();
